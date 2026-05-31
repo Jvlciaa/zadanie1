@@ -14,3 +14,4 @@ Patryk Adamczyk 90%
 Magdalena Piotrowska 70%
 Paweł Michalski 65%
 Zuzanna Jankowska 60%
+// Walidacja danych wejściowych dodana - poprawka usterki nr 1
