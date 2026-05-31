@@ -1,0 +1,14 @@
+/Users/juliapawlik/Desktop/PO/zadanie1/bin/Debug/net10.0/zadanie1
+/Users/juliapawlik/Desktop/PO/zadanie1/bin/Debug/net10.0/zadanie1.deps.json
+/Users/juliapawlik/Desktop/PO/zadanie1/bin/Debug/net10.0/zadanie1.runtimeconfig.json
+/Users/juliapawlik/Desktop/PO/zadanie1/bin/Debug/net10.0/zadanie1.dll
+/Users/juliapawlik/Desktop/PO/zadanie1/bin/Debug/net10.0/zadanie1.pdb
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.AssemblyInfoInputs.cache
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.AssemblyInfo.cs
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.csproj.CoreCompileInputs.cache
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.dll
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/refint/zadanie1.dll
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.pdb
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/zadanie1.genruntimeconfig.cache
+/Users/juliapawlik/Desktop/PO/zadanie1/obj/Debug/net10.0/ref/zadanie1.dll
